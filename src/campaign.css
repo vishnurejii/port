@@ -1,0 +1,24 @@
+/* Campaign Hero Styles: Ultra-Luxury Immersive Showcase */
+.campaign-hero {
+  position: relative;
+  width: 100%;
+  background: #0B0C0E;
+  color: #fff;
+  overflow: hidden;
+}
+
+.campaign-frame {
+  position: relative;
+  width: 100%;
+  min-height: 88vh;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+}
+
+@media (min-width: 1024px) {
+  .campaign-frame {
+    height: 92vh;
+    min-height: 720px;
+  }
+}

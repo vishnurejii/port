@@ -1,0 +1,18 @@
+/* Realtech Vision Theme Polish: Premium High-Contrast Enterprise Styling */
+:root {
+  --brand-orange: #FF5A00;
+  --dark-bg: #0B0C0E;
+}
+
+/* Base resets that respect modern clean aesthetics */
+body, input, textarea, select {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+.font-manrope {
+  font-family: 'Manrope', -apple-system, BlinkMacSystemFont, sans-serif !important;
+}
+
+.font-inter {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif !important;
+}
